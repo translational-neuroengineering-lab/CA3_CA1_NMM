@@ -1,0 +1,29 @@
+what,kind,bundleId,bundleVersion,description,time
+opened,editor,org.eclipse.cdt.ui,5.2.1.201009141542,"org.eclipse.cdt.ui.editor.CEditor",1427584652394
+opened,editor,org.eclipse.cdt.ui,5.2.1.201009141542,"org.eclipse.cdt.ui.editor.CEditor",1427584652396
+activated,editor,org.eclipse.cdt.ui,5.2.1.201009141542,"org.eclipse.cdt.ui.editor.CEditor",1427584652411
+closed,editor,org.eclipse.cdt.ui,5.2.1.201009141542,"org.eclipse.cdt.ui.editor.CEditor",1427584652411
+error,log,,,"Unable to create editor ID org.eclipse.cdt.ui.editor.CEditor: Project: Wendling is closed or inaccessible!",1427584654104
+opened,editor,org.eclipse.cdt.ui,5.2.1.201009141542,"org.eclipse.cdt.ui.editor.CEditor",1427584654110
+opened,editor,org.eclipse.cdt.ui,5.2.1.201009141542,"org.eclipse.cdt.ui.editor.CEditor",1427584654112
+activated,editor,org.eclipse.cdt.ui,5.2.1.201009141542,"org.eclipse.cdt.ui.editor.CEditor",1427584654119
+closed,editor,org.eclipse.cdt.ui,5.2.1.201009141542,"org.eclipse.cdt.ui.editor.CEditor",1427584654119
+activated,view,org.eclipse.ui.navigator.resources,3.4.201.M20100707-0800,"org.eclipse.ui.navigator.ProjectExplorer",1427584655426
+closed,editor,org.eclipse.cdt.ui,5.2.1.201009141542,"org.eclipse.cdt.ui.editor.CEditor",1427584655426
+error,log,,,"The project description file (.project) for 'Wendling' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.",1427584663951
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1427584664286
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1427584665965
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1427584672985
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1427584716318
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1427584722626
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1427584741977
+closed,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1427584742123
+error,log,,,"Problems saving workspace",1427584743732
+error,log,,,"Problems occurred while trying to save the state of the workbench.",1427584743733
+stopped,bundle,org.eclipse.cdt.debug.mi.ui,6.1.0.201009141542,"org.eclipse.cdt.debug.mi.ui",1427584743895
+stopped,bundle,org.eclipse.cdt.debug.mi.core,7.0.1.201009141542,"org.eclipse.cdt.debug.mi.core",1427584743897
+stopped,bundle,org.eclipse.cdt.debug.ui.memory.memorybrowser,1.2.0.201009141542,"org.eclipse.cdt.debug.ui.memory.memorybrowser",1427584743914
+stopped,bundle,org.eclipse.cdt.debug.ui.memory.search,1.2.0.201009141542,"org.eclipse.cdt.debug.ui.memory.search",1427584743930
+stopped,bundle,org.eclipse.cdt.dsf.gdb.ui,2.1.0.201009141542,"org.eclipse.cdt.dsf.gdb.ui",1427584743933
+stopped,bundle,org.eclipse.cdt.dsf.ui,2.1.1.201009141542,"org.eclipse.cdt.dsf.ui",1427584743971
+stopped,bundle,org.eclipse.cdt.gdb.ui,7.0.0.201009141542,"org.eclipse.cdt.gdb.ui",1427584743990
